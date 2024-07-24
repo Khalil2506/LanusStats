@@ -191,7 +191,7 @@ def get_possible_leagues(league, season, page):
             'Copa America': {
                 'id': 685,
                 'slug': 'Copa-America',
-                'season': {
+                'seasons': {
                     '2024', '2021', '2019'
                 }
             },
